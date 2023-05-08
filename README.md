@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solveddraw-sun
+<br>
+Start from the given class, and create a NewPanel class to draw a figure like below: (Need about 15 lines)import javax.swing.*;import java.awt.Color;importjava.awt.Graphics;public class drawSun extendsJFrame {publicdrawSun() {add(newNewPanel());}public static voidmain(String[] args) {drawSun frame = new drawSun();frame.setTitle(“Sun”);frame.setSize(200, 200);frame.setLocationRelativeTo(null); // Center the frameframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);frame.setVisible(true);}}
+
+Customer: The circle coordinate and size is (70, 60, 40, 40)The text coordinate is: (80, 85)The starting and ending lines coordinate are(120, 80, 134, 80)(110, 60, 120, 50)(90, 36, 90, 50)(60, 50, 70, 60)(46, 80, 60, 80)(60, 110, 70, 100)(90, 110, 90, 124)(110, 100, 120, 110).Color orange, with text color red.
